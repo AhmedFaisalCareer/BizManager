@@ -9,7 +9,7 @@ It helps small businesses manage products, inventory, customers, sales, reports,
 ## 🌐 Live Demo
 
 **Streamlit App:**
-[`YOUR_STREAMLIT_APP_URL]**((`https://bizmanager-3xb6kwahrpgnyhgjsedkus.streamlit.app/))**
+`https://bizmanager-3xb6kwahrpgnyhgjsedkus.streamlit.app/
 
 > Replace the placeholder with your deployed Streamlit application URL.
 
